@@ -26,15 +26,27 @@ Este conjunto de dados consiste em mais de 1.000 produtos reais com seus número
  **Características**
 
 product_id - ID do produto
+
 product_name - Nome do produto
+
 categoria - Categoria do Produto
+
 desconto_preço - Preço com desconto do produto
+
 actual_price - Preço real do produto
+
 desconto_percentagem - Porcentagem de desconto do produto
+
 rating - Avaliação do Produto
+
 rating_count – Número de pessoas que votaram na classificação da Amazon
+
 about_product - Descrição sobre o produto
+
 user_id - ID do usuário que escreveu a avaliação do produto
+
 user_name - Nome do usuário que escreveu a avaliação do produto
+
 review_id - ID da avaliação do usuário
+
 review_title - Breve revisão
