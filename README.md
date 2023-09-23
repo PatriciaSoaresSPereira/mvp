@@ -50,3 +50,10 @@ user_name - Nome do usuário que escreveu a avaliação do produto
 review_id - ID da avaliação do usuário
 
 review_title - Breve revisão
+
+**Coleta:**
+
+
+![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/641ef9ba-f201-44a6-89f9-35831bfb4d49)
+
+
