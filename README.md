@@ -55,7 +55,8 @@ review_title - Breve revisão
 
 ![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/641ef9ba-f201-44a6-89f9-35831bfb4d49)
 
-Criei um Bucket com o nome mvppipeline, fiz um upload do arquivo da amazon csv os dados brutos antes de ser transformados .
+Criei um S3 Bucket com o nome mvppipeline, fiz um upload do arquivo da **amazon_csv** os dados brutos antes de ser transformados .
+
 
 
 
