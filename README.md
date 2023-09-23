@@ -25,22 +25,22 @@ Este conjunto de dados consiste em mais de 1.000 produtos reais com seus número
 
  **Características**
 
-  product_id - ID do produto
-  product_name - Nome do produto
-  categoria - Categoria do Produto
-  desconto_preço - Preço com desconto do produto
-  actual_price - Preço real do produto
-  desconto_percentagem - Porcentagem de desconto do produto
-  rating - Avaliação do Produto
-  Rating_count – Número de pessoas que votaram na classificação da Amazon
-  about_product - Descrição sobre o produto
-  user_id - ID do usuário que escreveu a avaliação do produto
-  user_name - Nome do usuário que escreveu a avaliação do produto
-  review_id - ID da avaliação do usuário
-  review_title - Breve revisão
-  review_content - Revisão longa
-  img_link - Link da imagem do produto
-  product_link - Link do site oficial do produ
+ 1) product_id - ID do produto
+ 2) product_name - Nome do produto
+ 3)categoria - Categoria do Produto
+ 4)desconto_preço - Preço com desconto do produto
+ 5)actual_price - Preço real do produto
+ 6)desconto_percentagem - Porcentagem de desconto do produto
+ 7)rating - Avaliação do Produto
+ 8)Rating_count – Número de pessoas que votaram na classificação da Amazon
+ 9)about_product - Descrição sobre o produto
+ 10)user_id - ID do usuário que escreveu a avaliação do produto
+ 11)user_name - Nome do usuário que escreveu a avaliação do produto
+ 12)review_id - ID da avaliação do usuário
+ 13)review_title - Breve revisão
+ 14)review_content - Revisão longa
+ 15)img_link - Link da imagem do produto
+ 16)product_link - Link do site oficial do produ
 
    
 
