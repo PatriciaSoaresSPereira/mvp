@@ -53,7 +53,12 @@ review_title - Breve revisão
 
 **Coleta:**
 
-
 ![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/641ef9ba-f201-44a6-89f9-35831bfb4d49)
+
+Criei um Bucket com o nome mvppipeline, fiz um upload do arquivo da amazon csv a pasta está com dados brutos e depois de tranformados com outro s3.
+
+
+
+
 
 
