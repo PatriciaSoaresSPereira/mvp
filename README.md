@@ -18,6 +18,9 @@ Este conjunto de dados consiste em mais de 1.000 produtos reais com seus número
 6)   Avaliação do Feedback do cliente sobre o produto e categoria e os seus sentimentos ao receber a mercadoria a pós-vendas.
 
    **Detalhamento:**
+
+   ![amazon](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/bd02d781-c783-4cfb-a3fc-74e9f2536c03)
+
   
    A escolha do site https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset em formato cvs, onde os dados são abertos serão analisados na plataforma AWS.
    
