@@ -56,6 +56,17 @@ review_title - Breve revisão
 ![amazon](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/797d9176-0186-4b7a-b123-8970df9fc78b)
 
 
+O Dataset escolhido foi do site Kaggle, Vendas da Amazon e o serviço inserido foi da Plataforma em nuvem da AWs que integra todos os tipos de bancos relacionais e não relacionais e formatos de dados exemplos:csv, json e etc.....
+
+Eu criei um Bucket no S3, com os dados brutos que tem o nome **mvppipeline** está vazio e o glue ele detecta automaticamente os dados do esquema  e deixa os dados pesquisável para utilização, não precisa de servidor e flexivel ao padrão aberto e gera código personalizado que escolhi python.
+
+Eu criei crawler que catalogei os dados mvp2, onde será transformado onde é espelhado s3 dados, dei permissão ao ao glue lê da Pasta s3://mvppipeline/amazon.csv ele vai roda quando eu clicar no botão. O esquema, coluna que ele detectar salvará dentro Database que criei.
+Eu rodei o Crawler Mvp2 ele detectou o esquema da duas tabelas que criei 
+
+
+
+
+
 
 
 
