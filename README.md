@@ -82,6 +82,8 @@ Na etapa 1, "Data source - S3 bucket" , foram realizada as configurações para 
 
 ![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/94699851-8d46-48db-8f0c-30a364efccf0)
 
+Na etapa 2-Data sourde -S3 Bucket", no data catalog para puxar os dados da tabelas no s3.
+
 
 
 
