@@ -71,7 +71,7 @@ Dados baixados para maquina local e inserido manualmente em bucKet do S3.
 
 ** Modelagem**
 
-Carga 
+**Carga** 
 
 O ETL foi realizado utilizando o serviço AWS Glue.Através de sua interface visual foram criadas as seguintes etapas:
 ![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/a1d423f7-0da3-488c-bc87-a5147ffc4de5)
