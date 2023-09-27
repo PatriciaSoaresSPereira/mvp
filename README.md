@@ -102,6 +102,8 @@ Etapa 4, drop das tabelas dos produto-link,imag-link para a transformação de d
 Etapa 5, a execução dos jobs após a configuração.
 
 
+**Analise**
+
 
 
 
