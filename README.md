@@ -86,6 +86,12 @@ Na etapa 2-Data sourde -S3 Bucket", no data catalog para puxar os dados da tabel
 
 
 
+![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/5a4b02fc-f85d-472f-b632-160c491ccc69)
+
+Na etapa3 -  Left Join dos tabelas do dois Bucket S3 , pelo produtos.
+
+
+
 
 
 
