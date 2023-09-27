@@ -95,13 +95,12 @@ Na etapa3 -  Left Join dos tabelas do dois Bucket S3 .
 
 ![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/2222868d-3ab7-4e53-94d8-c2cfc570708e)
 
-Etapa 4, drop das tabela produto-link,imag-link para a transformação de dados
+Etapa 4, drop das tabelas dos produto-link,imag-link para a transformação de dados
 
 ![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/3700dade-48e3-45f1-839e-0601eac59fec)
 
 Etapa 5, a execução dos jobsapós a configuração.
-
-![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/973d4d6a-a637-4e9c-810b-b9417402e8eb), p
+(https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/973d4d6a-a637-4e9c-810b-b9417402e8eb), 
  
 
 
