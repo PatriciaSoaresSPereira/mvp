@@ -99,9 +99,7 @@ Etapa 4, drop das tabelas dos produto-link,imag-link para a transformação de d
 
 ![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/3700dade-48e3-45f1-839e-0601eac59fec)
 
-Etapa 5, a execução dos jobsapós a configuração.
-(https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/973d4d6a-a637-4e9c-810b-b9417402e8eb), 
- 
+Etapa 5, a execução dos jobs após a configuração.
 
 
 
