@@ -77,7 +77,11 @@ O ETL foi realizado utilizando o serviço AWS Glue.Através de sua interface vis
 ![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/a1d423f7-0da3-488c-bc87-a5147ffc4de5)
 
 
-Na etapa 1, "Data source - S3 bucket" , foram realizada as configurações para extrair (EXtract) os dados da fonte, no caso "amazon_csv"do bucket "mvppipeline".Onde 
+Na etapa 1, "Data source - S3 bucket" , foram realizada as configurações para extrair (EXtract) os dados da fonte, no caso "amazon_csv"do bucket "mvppipeline".
+
+
+![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/94699851-8d46-48db-8f0c-30a364efccf0)
+
 
 
 
