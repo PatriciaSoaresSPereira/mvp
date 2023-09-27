@@ -88,7 +88,16 @@ Na etapa 2-Data sourde -S3 Bucket", no data catalog para puxar os dados da tabel
 
 ![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/5a4b02fc-f85d-472f-b632-160c491ccc69)
 
-Na etapa3 -  Left Join dos tabelas do dois Bucket S3 , pelo produtos.
+Na etapa3 -  Left Join dos tabelas do dois Bucket S3 .
+
+
+
+![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/2222868d-3ab7-4e53-94d8-c2cfc570708e)
+
+Etapa 4, drop das tabela produto-link, criei![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/973d4d6a-a637-4e9c-810b-b9417402e8eb), para transformação de dados , 
+convertendo os dados. 
+ 
+
 
 
 
