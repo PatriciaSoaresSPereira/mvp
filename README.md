@@ -103,6 +103,9 @@ Etapa 5, a execução dos jobs após a configuração.
 
 
 **Analise**
+![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/21b9721c-cd00-4597-8e23-ec319ada2fbb)
+
+Solução do problema : Fiz no aws athena, em notebook na linguagem em Pyhton a analise de dados do ra
 
 
 
