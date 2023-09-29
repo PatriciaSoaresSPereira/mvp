@@ -111,11 +111,9 @@ Solução do problema : Fiz no Aws Athena, em notebook na linguagem em Pyhton a 
 
 ![Screenshot_3](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/2e919809-c748-4fe7-8723-d68f6b0d72fe)
 
-
 Em analise da qualidade de cada atributo do conjunto de dados, percebi que não há  problema algum que afeta-se predição de dados.
 
 ![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/006ad415-156c-4510-8f4c-5b92a467a73e)
-
 
 Percebi que no racking das classificações e produtos e categorias as classificações ficam em torno 4,0 e 4,375, sem nunhum produto abaixo das 
 expectativas de vendas da classificação de 2,0,demostra que os produtos são boa qualidade, o preço atuais e com descontos são estratégico para 
@@ -125,6 +123,11 @@ aumento de vendas das categorias de computadores e eletrônicos são mais vendid
 
 As preferências das pessoas eletrônicos , computadores e acessórios e casa e cozinha o mais vendidos após os descontos e são mais caros do site
 de vendas da Amazon.
+
+![Screenshot_7](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/46f56f57-0bad-43f9-a59b-49bd484cbb79)
+
+Produto mais baratos com descontos .
+
 
 
 
