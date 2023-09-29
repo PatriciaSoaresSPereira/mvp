@@ -99,12 +99,17 @@ Etapa 4, drop das tabelas dos produto-link,imag-link para a transformação de d
 
 ![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/3700dade-48e3-45f1-839e-0601eac59fec)
 
-Etapa 5, a execução dos jobs após a configuração.
+Etapa 5, a execução dos jobs após a configuração no Athena no notebook .
+
+![Screenshot_4](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/adcb53fd-78f8-4c71-b6e1-3e0368323d38)
+
+
 
 
 **Analise**
 
 Solução do problema : Fiz no Aws Athena, em notebook na linguagem em Pyhton a analise de dados que deixei no github, nome chamado Amazon 
+
 ![Screenshot_3](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/2e919809-c748-4fe7-8723-d68f6b0d72fe)
 
 .
