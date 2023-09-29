@@ -128,6 +128,10 @@ de vendas da Amazon.
 
 Produto mais baratos com descontos .
 
+![Screenshot_8](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/4405a366-b710-415d-9d78-8dab7f56b7fa)
+
+
+
 
 
 
