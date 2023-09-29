@@ -112,7 +112,7 @@ Solução do problema : Fiz no Aws Athena, em notebook na linguagem em Pyhton a 
 
 ![Screenshot_3](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/2e919809-c748-4fe7-8723-d68f6b0d72fe)
 
-Em analise da qualidade de cada atributo do conjunto de dados, percebi que não há  problema algum que afeta-se predição de dados.
+Em analise da qualidade de cada atributo do conjunto de dados, percebi que não há  problema algum que afeta a predição de dados.
 
 ![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/006ad415-156c-4510-8f4c-5b92a467a73e)
 
