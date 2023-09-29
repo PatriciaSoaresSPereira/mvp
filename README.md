@@ -105,18 +105,27 @@ Etapa 5, a execução dos jobs após a configuração no Athena no notebook .
 
 
 
-
 **Analise**
 
-Solução do problema : Fiz no Aws Athena, em notebook na linguagem em Pyhton a analise de dados que deixei no github, nome chamado Amazon 
+Solução do problema : Fiz no Aws Athena, em notebook na linguagem em Pyhton a analise de dados que deixei no github, nome chamado Amazon. 
 
 ![Screenshot_3](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/2e919809-c748-4fe7-8723-d68f6b0d72fe)
 
-.
 
 Em analise da qualidade de cada atributo do conjunto de dados, percebi que não há  problema algum que afeta-se predição de dados.
 
 ![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/006ad415-156c-4510-8f4c-5b92a467a73e)
+
+
+Percebi que no racking das classificações e produtos e categorias as classificações ficam em torno 4,0 e 4,375, sem nunhum produto abaixo das 
+expectativas de vendas da classificação de 2,0,demostra que os produtos são boa qualidade, o preço atuais e com descontos são estratégico para 
+aumento de vendas das categorias de computadores e eletrônicos são mais vendidos na faixa 3,6 a 4,6 uma margem ideal paa o site da amazon .
+
+![Screenshot_6](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/b87633b0-abf8-4b4f-850d-d2cc0a2d6f90)
+
+As preferências das pessoas eletrônicos , computadores e acessórios e casa e cozinha o mais vendidos após os descontos e são mais caros do site
+de vendas da Amazon.
+
 
 
 
