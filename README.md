@@ -131,7 +131,7 @@ Produto mais baratos com descontos .
 
 ![Screenshot_8](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/4405a366-b710-415d-9d78-8dab7f56b7fa)
 
-Usei a tecnica de Linguagem Natural para analisar os sentimentos da Pessoas que receberam em suas casas, estabelecimentos, empresas 
+Usei a tecnica de Linguagem Natural para analisar os sentimentos das Pessoas que receberam em suas casas e empresas 
 os produtos vendidos, descontos e a entrega do feedback após as vendas, uma possível compra novamente no site Amazon. 
 
 Depois da analise feita o resultado foram excelente para uma possível compra novamente, a melhoria no atendimento da pós-vendas e a qualidade 
