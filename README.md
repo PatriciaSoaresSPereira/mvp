@@ -61,7 +61,7 @@ O Dataset escolhido foi do site Kaggle, Vendas da Amazon e o serviço inserido f
 Eu criei um Bucket no S3, com os dados brutos que tem o nome **mvppipeline** está vazio e o glue ele detecta automaticamente os dados do esquema   que são dados pesquisável para utilização, não precisa de servidor e flexivel ao padrão aberto e gera código personalizado que escolhi python.
 
 Eu criei crawler no serviço do Glue e catalogei os dados mvp2, onde será transformado onde é espelhado s3 dados, dei permissão ao ao glue lê da Pasta s3://mvppipeline/amazon.csv ele vai roda quando eu clicar no botão. O esquema, coluna que ele detectar salvará dentro Database que criei.
-Eu rodei o Crawler Mvp2 ele detectou o esquema da duas tabelas que criei , que foi catalogado  no data Catalog.E deixar dados transformado no s3 para ser utlizado .Usei data catalog e para analisar os dados no athena.
+Eu rodei o Crawler Mvp2 ele detectou o esquema das duas tabelas que criei , que foi catalogado  no data Catalog.E deixar dados transformado no s3 para ser utlizado .Usei data catalog e para analisar os dados no athena.
 
 
 ![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/a1ec4548-725b-4520-9291-7d6ea14e9aaf)
