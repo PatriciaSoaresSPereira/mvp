@@ -105,7 +105,10 @@ Etapa 5, a execução dos jobs após a configuração.
 **Analise**
 ![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/21b9721c-cd00-4597-8e23-ec319ada2fbb)
 
-Solução do problema : Fiz no Aws Athena, em notebook na linguagem em Pyhton a analise de dados que deixei no github, nome chamado Amazon.
+Solução do problema : Fiz no Aws Athena, em notebook na linguagem em Pyhton a analise de dados que deixei no github, nome chamado Amazon 
+
+![image](https://github.com/PatriciaSoaresSPereira/mvp/assets/136263539/8fc48925-8a76-4176-a572-d98cb4035603)
+.
 
 Em analise da qualidade de cada atributo do conjunto de dados, percebi que não há  problema algum que afeta-se predição de dados.
 
